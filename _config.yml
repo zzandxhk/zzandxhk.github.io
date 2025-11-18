@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "倪元华（Yuan-Hua Ni）"
+title                    : "倪元华"
 description              : "个人主页"
 repository               : "zzandxhk/zzandxhk.github.io"
 google_scholar_stats_use_cdn : false
@@ -161,5 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
