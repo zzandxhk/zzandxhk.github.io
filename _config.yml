@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "倪元华"
-  avatar           : "images/nyh-shuaizhao.jpg"
+  avatar           : "images/nyh-shuaizhao.png"
   bio              : "南开大学 人工智能学院"
   location         : "中国 天津"
   employer         : #"自动化系"
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
