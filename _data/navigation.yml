@@ -3,17 +3,18 @@ main:
   - title: "简介"
     url: "/zh-cn/#about-me"
 
-  - title: "学历"
+  - title: "教育工作经历"
     url: "/zh-cn/#-xl"
 
-  - title: "论文专利"
+  - title: "代表性论文"
     url: "/zh-cn/#-lwzl"
 
   - title: "荣誉奖项"
     url: "/zh-cn/#-ryjx"
 
-  - title: "学术会议"
+  - title: "讲授课程"
     url: "/zh-cn/#-xshy"
 
-  - title: "工作实习"
+  - title: "学术与社会兼职"
     url: "/zh-cn/#-gzsx"
+
