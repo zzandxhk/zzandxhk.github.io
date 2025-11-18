@@ -59,14 +59,10 @@ redirect_from:
 
 ### 英文
 ---
-
 - `Yuan-Hua Ni`, Xun Li, Consensus seeking in multi-agent systems with multiplicative measurement noises, Systems & Control Letters, 2013, 62 (5): 430-437. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167691113000364)
 
 
 - `Yuan-Hua Ni`, Weihai Zhang, Hai-Tao Fang, On the observability and detectability of linear stochastic systems with Markov jumps and multiplicative noise, Journal of Systems Science and Complexity, 2010, 23 (1): 102-115.[[paper]](https://link.springer.com/article/10.1007/s11424-010-9270-7)
-
-
-
 
 ### 中文
 ---
@@ -76,10 +72,6 @@ redirect_from:
 
 
 
-### 期刊编委
----
--  System & Control Letters，Associate Editor
-
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
@@ -88,14 +80,18 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 教学、讲授课程
+# 💻 讲授课程
 - 研究生课程 《矩阵论》
 - 本科生课程 《概率论与数理统计》
 - 本科生课程 《强化学习原理》
 - 
 <span class='anchor' id='-shjz'></span>
 
-# 🏛️ 学术会议
+# 🏛️ 学术与社会兼职
+### 期刊编委
+-  System & Control Letters，Associate Editor
+### 社会兼职
 - 中国人工智能学会智能空天系统专业委员会委员
+
 
 
